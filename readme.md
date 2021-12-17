@@ -4,6 +4,8 @@
 
 ## The encoding is letter-based (i.e. each letter should match to a binary representation; conversely, each binary representation matches to one letter)
 
+## The text only consists of lower case English letters
+
 ## Use the English letter monogram frequencies table from here for the encoding: http://practicalcryptography.com/cryptanalysis/letter-frequencies-various-languages/english-letter-frequencies/
 
 ## Good luck
